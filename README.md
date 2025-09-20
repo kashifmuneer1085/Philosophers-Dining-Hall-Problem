@@ -4,9 +4,9 @@ This repository contains a Python implementation of the Dining Philosophers prob
 
 ## Contributors
 
+- Kashif Muneer
 - Mehmood Ul Haq
 - Muhammad Shahzaib
-- Kashif Muneer
 - Talal Muzammil
 
 ## Problem Description
@@ -38,5 +38,5 @@ Here's a representation of a solution:
   
   •	Transitions between states are managed to prevent conflicts and ensure that no two adjacent philosophers are eating at the same time.
 
-For issues or feedback, please contact me at mehmodulhaq1040@gmail.com.
+For issues or feedback, please contact me at kashifmuneer1085@gmail.com.
 
